@@ -33,3 +33,5 @@ This function will clear the interval and also it will set time to '0'. So that 
 ### 4. Funtion getFormattedTime
 
 This funtion will provide formatted time.
+
+### 5. ScreenShot
