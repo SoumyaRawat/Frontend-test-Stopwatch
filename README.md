@@ -34,4 +34,4 @@ This function will clear the interval and also it will set time to '0'. So that 
 
 This funtion will provide formatted time.
 
-### 5. ScreenShot
+
