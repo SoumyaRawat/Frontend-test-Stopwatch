@@ -2,7 +2,7 @@
 
 Frontend test: Stopwatch For coding Ninja project
 
-### [See it in action] | [Video Demo]
+### [See it in action](https://soumyarawat.github.io/Frontend-test-Stopwatch/) | [Video Demo]
 
 ### We have a Clock class which contains below three main functions
 
